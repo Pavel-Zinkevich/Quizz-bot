@@ -1,5 +1,3 @@
-Here's a more concise and stylish description for your GitHub repo:
-
 ---
 
 # 🎮 Quizz Bot 🤖
