@@ -12,3 +12,6 @@
 ## 🤖 Try it now!
 
 Start the quiz game by searching for **[@miziquizzy_bot](https://t.me/miziquizzy_bot)** on Telegram. Let’s see how many questions you can get right! 🎉
+
+![Uploading image.png…]()
+
