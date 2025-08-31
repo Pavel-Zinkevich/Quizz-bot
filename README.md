@@ -13,5 +13,5 @@
 
 Start the quiz game by searching for **[@miziquizzy_bot](https://t.me/miziquizzy_bot)** on Telegram. Let’s see how many questions you can get right! 🎉
 
-![Uploading image.png…]()
+<img width="708" height="431" alt="image" src="https://github.com/user-attachments/assets/4ca40921-6c2f-4eec-8587-9f43f8df86e3" />
 
