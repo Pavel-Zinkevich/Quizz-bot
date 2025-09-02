@@ -29,11 +29,11 @@ The bot uses a simple SQLite database to store user progress:
 
 ## 📂 Project Structure
 
-quiz_bot.db        # SQLite database (stores quiz state and user scores)
-questions.ipynb    # Notebook with quiz questions or their generation
-db.ipynb           # Notebook with database logic (create_table, update_score, etc.)
-config.ipynb       # Configuration (bot token and settings)
-bot.ipynb          # Main Telegram bot code (aiogram)
+* quiz_bot.db        # SQLite database (stores quiz state and user scores)  
+* questions.ipynb    # Notebook with quiz questions or their generation  
+* db.ipynb           # Notebook with database logic (create_table, update_score, etc.)  
+* config.ipynb       # Configuration (bot token and settings)  
+* bot.ipynb          # Main Telegram bot code (aiogram)  
 
 ---
 
